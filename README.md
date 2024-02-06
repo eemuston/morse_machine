@@ -1,2 +1,4 @@
 # morse_machine
-Program which takes in string and translates it to morse code.
+I made this morsecode translator to troll my friends.
+The whole code is troll it self :D.
+The program takes string as argument and returns the string in morsecode.
